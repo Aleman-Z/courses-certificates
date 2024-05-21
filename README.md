@@ -1,5 +1,5 @@
 # Courses Certificates
-Professional development courses certificates awarded to Adrián Alemán Zapata. 
+Professional development courses certificates awarded to [Adrián Alemán Zapata](https://www.linkedin.com/in/aleman-zapata/). 
 
 - [Neuromatch Academy Computational Neuroscience.](https://github.com/Aleman-Z/courses-certificates/blob/main/NMA_Computational_Neuroscience.pdf) __(Feb 2024)__
 - [Huawei Certified ICT Associate AI.](https://github.com/Aleman-Z/courses-certificates/blob/main/Huawei%20Certified%20ICT%20Associate%20AI.pdf) __(Feb 2024)__
