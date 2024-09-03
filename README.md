@@ -9,3 +9,4 @@ Professional development courses certificates awarded to [Adrián Alemán Zapata
 - [Bachelor in Biomedical Engineering licence. In Spanish: Cédula de licenciatura en la Universidad de Guadalajara.](https://github.com/Aleman-Z/courses-certificates/blob/main/BiomedicalEngineering_Licence.pdf) __(May 2024)__
 - [MLx Fundamentals 2024 from Oxford ML school.](https://github.com/Aleman-Z/courses-certificates/blob/main/MLx%20Fundamentals_Certificate.pdf).  __(May 2024)__
 - [IYNA Lecturer certificate for Computational Neuroscience course.](https://github.com/Aleman-Z/courses-certificates/blob/main/Certificate%20IYNA%20CompuNeuro.pdf) __(Jun 2024)__
+- [Clubes de Ciencia Lecturer certificate for "Model your brain" course.](https://github.com/Aleman-Z/courses-certificates/blob/main/ClubesDeCiencia_Reconocimiento.pdf) __(Jul 2024)__
